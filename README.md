@@ -1,7 +1,7 @@
 # Blog
 Proyecto Final Coderhouse
-COMISION: 27615
-NOMBRE: Santiago Martinez
+COMISION: 34655
+ NOMBRE: Santiago Martinez
 
 # Explicacion Proyecto
 Consiste en la venta y comercio de prendas de vestir entre usuarios, de modo que puedan contactarse para hablar o negociar los distintos productos a agregar en la pagina web.
